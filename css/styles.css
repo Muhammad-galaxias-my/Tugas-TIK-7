@@ -1,0 +1,235 @@
+/* All Elements */
+*{
+    font-family: arial;
+}
+
+/* General */
+a:active{
+    color: tomato;
+}
+
+a:visited{
+    color: blue;
+}
+
+h2, p{
+    font-size: 27px;
+}
+
+.jawaban{
+    background-color: green;
+    border: solid 1px;
+    border-radius: 10px 10px 0 0;
+    height: 75px;
+}
+
+.jawaban:hover{
+    background-color: yellow;
+}
+
+.jawaban:active{
+    background-color: cornflowerblue;
+}
+
+.jawaban:visited{
+    color: blue;
+}
+/* Home */
+.container-title{
+  color: white;
+    font-family: tahoma;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 450%;
+    text-decoration: none;
+   border: solid 5px white;
+   padding: 0;
+   margin: 1px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    padding: 10px;
+    justify-content: center;
+    width: 490px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.container:hover{
+    color: chartreuse;
+    background-color: black;
+}
+
+.container:active{
+    color: darkgreen;
+}
+
+.container.visited{
+    color: chocolate;
+}
+
+.table1{
+    border: solid 5px;
+    background-color: whitesmoke;
+    margin: 40px auto;
+    width: 840px;
+    display: flex;
+    justify-content: center;
+}
+
+.table2{ 
+    border: solid 5px;
+    background-color: whitesmoke;
+    margin: 40px auto;
+    width: 840px;
+    display: flex;
+    justify-content: center;
+}
+/* Box 1 */
+.box1{
+    text-align: center;
+    margin: 5px;
+    margin: 20 px;
+    width: 260px;
+    border: solid 5px;
+}
+
+.box-title1{
+    background-color: red;
+    text-align: center;
+    border: solid 1px;
+    border-radius: 0 0 10px 10px;
+    color: white;
+}
+
+.box-paragraph1{
+    border: solid 1px white;
+}
+
+.jawaban-point5{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 70px 70px 0;
+}
+
+.jawaban-point5:visited{
+    color: red;
+}
+/* Box 2 */
+.box2{
+    text-align: center;
+    margin: 5px;
+    margin: 20 px;
+    width: 260px;
+    border: solid 5px;
+}
+
+.box-title2{
+    background-color: red;
+    text-align: center;
+    border: solid 1px white;
+    color: white;
+}
+
+.box-paragraph2{
+    border: solid 1px white;
+}
+
+.jawaban10{
+    background-color: green;
+    border: solid 1px;
+    border-radius: 10px 10px 0 0;
+    height: 70px;
+}
+
+.jawaban-point10{
+    border-radius: 10px 10px 0 0;
+    height: 80px;
+    color: white;
+    text-decoration: none;
+}
+
+.jawaban10:hover{
+    background-color: yellow;
+}
+
+.jawaban-point10:visited{
+    color: red;
+}
+/* Box 3 */
+.box3{
+    text-align: center;
+    margin: 5px;
+    margin: 20 px;
+    width: 260px;
+    border: solid 5px;
+}
+
+.box-title3{
+    background-color: red;
+    text-align: center;
+    border: solid 1px white;
+    color: white;
+}
+
+.box-paragraph3{
+    border: solid 1px white; 
+}
+
+.jawaban-point20{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 70px 70px 0;
+}
+
+.jawaban20{
+    background-color: green;
+    border: solid 1px;
+    border-radius: 10px 10px 0 0;
+    height: 75px;
+}
+
+.jawaban20:hover{
+    background-color: yellow;
+}
+
+.jawaban-point20:visited{
+    color: red;
+}
+/* Box 4 */
+.box4{
+    text-align: center;
+    margin: 5px;
+    margin: 20 px; 
+    width: 260px;
+    border: solid 5px;
+}
+
+.box-title4{
+    background-color: red;
+    text-align: center;
+    border: solid 1px;
+    border-radius: 0 0 10px 10px;
+    color: white;
+}
+
+.box-paragraph4{
+    border: solid 1px white;
+}
+
+.jawaban-point5{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 70px 70px 0;
+}
+
+/* Box 5 */
+
+/* Box 6 */
